@@ -1,2 +1,3 @@
 # hello-word
-mi primer repositorio
+HOLA UWU 
+#PUCCA-LA CARA DE PERRO
