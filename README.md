@@ -265,7 +265,7 @@ Kora es desarrollado de manera colaborativa como proyecto académico.
 |        👤 Integrante       |                     💻 GitHub                    |   🧩 Área  |
 | :------------------------: | :----------------------------------------------: | :--------: |
 | **Alondra López Medellín** | [@Alondralopez](https://github.com/Alondralopez) | Desarrollo |
-|  **Nombre del integrante** |      [@usuario](https://github.com/usuario)      | Desarrollo |
+|  **Nombre del integrante** |      [@gomez-d](https://github.com/gomez-d)      | Desarrollo |
 |  **Nombre del integrante** |      [@usuario](https://github.com/usuario)      | Desarrollo |
 
 </div>
